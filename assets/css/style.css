@@ -1402,7 +1402,7 @@ Background Image
 }
 
 .bg_image--1 {
-  background-image: url(../images/bg/bg-image-1.jpg);
+  background-image: url(../images/footer/05.webp);
 }
 
 .bg_image--2 {
@@ -9376,7 +9376,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   }
 }
 .rts-btn.btn-primary {
-  background: #20282D;
+  background: #334048;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -13444,7 +13444,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .cta-main-area-wrapper-one {
-  background-image: url(../images/cta/01.webp);
+  background-image: url(../images/footer/05.webp);
   height: 175px;
   background-color: #20282D;
   border-radius: 10px;
